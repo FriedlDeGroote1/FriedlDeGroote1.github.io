@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 # Specify a customized theme, via absolute path
 #THEME = "C:/Users/u0088756/Documents/Software/WebPage/PelicanThemesGit/~/pelican-themes/blueidea"
 
-AVATAR = 'images//PastFoto_Friedl.jpg'
+ # AVATAR = 'images//PastFoto_Friedl.jpg'
 
 # Social widget
 DEFAULT_PAGINATION = 2
