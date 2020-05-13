@@ -1,6 +1,8 @@
 Title: DynamicWalking
 Date: 2020-05-13 20:30
 Category: DynamicWalking
+url: 
+save_as: index.html
 
 
 ### Predictive simulations of muscle driven 3D walking allow us to explore effect of neuro-musculoskeletal deficits

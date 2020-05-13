@@ -25,10 +25,10 @@ AUTHOR_FEED_RSS = None
  # AVATAR = 'images//PastFoto_Friedl.jpg'
 
 # Social widget
-DEFAULT_PAGINATION = 2
+#DEFAULT_PAGINATION = 2
 
 # Pages
-DISPLAY_PAGES_ON_MENU = True 
+#DISPLAY_PAGES_ON_MENU = True 
 #STATIC_PATHS  = ['siteImages']
 
 # Nice and simple theme
