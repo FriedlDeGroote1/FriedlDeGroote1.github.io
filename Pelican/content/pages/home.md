@@ -7,7 +7,7 @@ save_as: index.html
 
 ### Predictive simulations of muscle driven 3D walking allow us to explore effect of neuro-musculoskeletal deficits
 
-<video src="{static}/images/Nominal.mp4" height="500" controls>
+<video src="{static}/images/Nomimal_withMusclesTurningRed.mp4" height="500" controls>
 Your browser does not support the video tag.</video>
 
 ### No/not squaring metabolic energy rate term results in exaggerated trunk sway. 
@@ -18,14 +18,14 @@ Your browser does not support the video tag.</video>
 
 ### Toes are important for knee flexion during stance.
 
-<video src="{static}/images/NoToes_Toes.mp4" height="500" controls>
+<video src="{static}/images/Toes_WithLegend.mp4" height="500" controls>
 Your browser does not support the video tag.</video>
 
 ### Model predicts a continuum of walking and running gaits.
 <video src="{static}/images/WalkingToRunning.mp4" height="500" controls>
 Your browser does not support the video tag.</video>
 
-#### Altered muscle-tendon properties rather than bony deformities cause crouched gait pattern.
+### Altered muscle-tendon properties rather than bony deformities cause crouched gait pattern.
 
 <video src="{static}/images/CaseCP.mp4" height="500" controls>
 Your browser does not support the video tag.</video>
